@@ -6,18 +6,32 @@
 
 <h2>⚡ PCB Design Projects:</h2>
 
-- <b>Low-Power RTK Positioning Base Station (in collaboration with Beyond Vision)</b>
+- <b>Low-Power RTK Positioning Base Station (for my Master's Thesis, in collaboration with Beyond Vision)</b>
   - [RTK Base Station](https://github.com/danielftsilva/RTK-Base-Station)
 - <b>TS-808 Guitar Pedal Replica</b>
   - [TS-808-Replica](https://github.com/danielftsilva/TS-808-Replica)
+- <b>Texas Square Face Fuzz Guitar Pedal Replica</b>
+  - [TX-SQFF-Replica](https://github.com/danielftsilva/TX-SQFF-Replica)
+
+<h3>Currently Working On:</h3>
+
+- <b>E-Mobility PCB Design (my current work, at [Siemens](https://www.siemens.com/global/en/products/energy/emobility.html))</b>
+  - To learn more about my work at Siemens, feel free to contact me at **danielsilvacs@gmail.com**
 - <b>"Japanese" Fuzz Face Guitar Pedal</b>
   - [JP-Fuzz-Face](https://github.com/danielftsilva/JP-Fuzz-Face)
 - <b>MXR - M-144 Loop Selector Guitar Pedal Replica</b>
   - [M-144-Replica](https://github.com/danielftsilva/M-144-Replica)
 
+<!-- acrescentar mais projetos de pedais, vindos do site https://generalguitargadgets.com/effects-projects/-->
 <!-- falta meter o projeto de stock market analysis com python -->
 <!-- falta meter o projeto de raspberry pi NAS -->
+<!-- fazer o developerfolio.
+    deopis disto ver como meter todos os repositorios dentro de um so repositório grande (e.g., PCB-Portfolio)-->
+<!-- falta meter o projeto de TAPDI (OpenCV) -->
  
+
+
+
 
 -  projects are available at **[my portfolio](https://Eslam-Abdo.github.io/)**
 
