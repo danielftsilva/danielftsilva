@@ -22,12 +22,20 @@
   - [M-144-Replica](https://github.com/danielftsilva/M-144-Replica)
 
 <!-- acrescentar mais projetos de pedais, vindos do site https://generalguitargadgets.com/effects-projects/-->
-<!-- falta meter o projeto de stock market analysis com python -->
-<!-- falta meter o projeto de raspberry pi NAS -->
 <!-- fazer o developerfolio.
     deopis disto ver como meter todos os repositorios dentro de um so repositório grande (e.g., PCB-Portfolio)-->
-<!-- falta meter o projeto de TAPDI (OpenCV) -->
+
  
+
+<h2>⚡ Software Projects:</h2>
+
+<!-- falta meter o projeto de TAPDI (OpenCV) -->
+<!-- falta meter o projeto de stock market analysis com python -->
+
+
+<h2>⚡ Embedded Systems Projects:</h2>
+
+<!-- falta meter o projeto de raspberry pi NAS -->
 
 
 
