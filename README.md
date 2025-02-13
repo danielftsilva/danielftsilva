@@ -1,4 +1,3 @@
-<h1 align="left">👋 Hi, I'm Daniel!</h1>
 <h1>Hi, I'm Daniel!<br/><a href="https://github.com/danielftsilva">Hardware Design Engineer</a>, <a href="https://www.linkedin.com/in/danielfeiteirasilva/">E-Mobility Professional</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar player</a></h1>
 
 [![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9)
