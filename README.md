@@ -1,6 +1,6 @@
 <h1>Hi, I'm Daniel!<br/><a href="https://github.com/danielftsilva">Hardware Design Engineer</a>, <a href="https://www.linkedin.com/in/danielfeiteirasilva/">E-Mobility Professional</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar player</a></h1>
 
-[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9)
+<!-- my portfolio -->
 
 
 <h2>⚡ PCB Design Projects:</h2>
@@ -40,6 +40,10 @@
 <!-- falta meter o projeto de raspberry pi NAS -->
 
 
+<h2>🎵 What I'm learning at the moment:</h2>
+
+[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9)
+
 
 
 -  projects are available at **[my portfolio](https://Eslam-Abdo.github.io/)**
@@ -50,7 +54,7 @@
 
 - 📄 Know about my experience **[see my resume](https://drive.google.com/file/d/1HfX6l9l6t2lXlLdyYL8o1ZJP3AycqxNJ/view?usp=sharing)**
 
-<h3 align="left">Connect with me:</h3>
+<h2> 🤳 Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/danielfeiteirasilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielftsilva" height="30" width="40" /></a>
 </p>
