@@ -27,7 +27,7 @@
 
  
 
-<h2>⚡ Software Projects:</h2>
+<h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Real-Time Lane and Vehicle Detection Using OpenCV and OpenCL</b>
   - [RT-Lane-Vehicle-Detection](https://github.com/danielftsilva/RT-Lane-Vehicle-Detection)
