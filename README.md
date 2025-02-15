@@ -29,8 +29,10 @@
 
 <h2>⚡ Software Projects:</h2>
 
-<!-- falta meter o projeto de TAPDI (OpenCV) -->
-<!-- falta meter o projeto de stock market analysis com python -->
+- <b>Real-Time Lane and Vehicle Detection Using OpenCV and OpenCL</b>
+  - [RT-Lane-Vehicle-Detection](https://github.com/danielftsilva/RT-Lane-Vehicle-Detection)
+- <b>Python Stock Market Analysis</b>
+  - [Stock-Market-Py-Analysis](https://github.com/danielftsilva/Stock-Market-Py-Analysis)
 
 
 <h2>⚡ Embedded Systems Projects:</h2>
