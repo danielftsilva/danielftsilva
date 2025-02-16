@@ -36,12 +36,15 @@
 
 <h2>⚡ Embedded Systems Projects:</h2>
 
+- <b>Bluetooth-Enabled Analog Alarm Clock with Arduino HC-05 Integration</b>
+  - [HC-05-Analog-Clock](https://github.com/danielftsilva/HC-05-Analog-Clock)
+
+<h3>Currently Working On:</h3>
+
 - <b>Smart Home Automation System using Home Assistant</b>
   - [Smart-Home-Automation-System](https://github.com/danielftsilva/Smart-Home-Automation-System)
 - <b>Raspberry Pi Network-Attached Storage with VPN Server</b>
   - [RPi-NAS-VPN](https://github.com/danielftsilva/RPi-NAS-VPN)
-- <b>Bluetooth-Enabled Analog Alarm Clock with Arduino HC-05 Integration</b>
-  - [HC-05-Analog-Clock](https://github.com/danielftsilva/HC-05-Analog-Clock)
 
 
 <h2>🎵 What I'm learning at the moment:</h2>
