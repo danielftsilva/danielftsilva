@@ -14,7 +14,7 @@
 
 <h3>Currently Working On:</h3>
 
-- <b>E-Mobility PCB Design (my current work, at [Siemens](https://www.siemens.com/global/en/products/energy/emobility.html))</b>
+- <b>Hardware Design for E-Mobility (my current work, at [Siemens](https://www.siemens.com/global/en/products/energy/emobility.html))</b>
   - To learn more about my work at Siemens, feel free to contact me at **danielsilvacs@gmail.com**
 - <b>"Japanese" Fuzz Face Guitar Pedal</b>
   - [JP-Fuzz-Face](https://github.com/danielftsilva/JP-Fuzz-Face)
@@ -25,11 +25,10 @@
 <!-- fazer o developerfolio.
     deopis disto ver como meter todos os repositorios dentro de um so repositório grande (e.g., PCB-Portfolio)-->
 
- 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Real-Time Lane and Vehicle Detection Using OpenCV and OpenCL</b>
+- <b>Real-Time Lane and Vehicle Detection using OpenCV and OpenCL</b>
   - [RT-Lane-Vehicle-Detection](https://github.com/danielftsilva/RT-Lane-Vehicle-Detection)
 - <b>Python Stock Market Analysis</b>
   - [Stock-Market-Py-Analysis](https://github.com/danielftsilva/Stock-Market-Py-Analysis)
@@ -37,7 +36,12 @@
 
 <h2>⚡ Embedded Systems Projects:</h2>
 
-<!-- falta meter o projeto de raspberry pi NAS -->
+- <b>Smart Home Automation System using Home Assistant</b>
+  - [Smart-Home-Automation-System](https://github.com/danielftsilva/Smart-Home-Automation-System)
+- <b>Raspberry Pi Network-Attached Storage with VPN Server</b>
+  - [RPi-NAS-VPN](https://github.com/danielftsilva/RPi-NAS-VPN)
+- <b>Bluetooth-Enabled Analog Alarm Clock with Arduino HC-05 Integration</b>
+  - [HC-05-Analog-Clock](https://github.com/danielftsilva/HC-05-Analog-Clock)
 
 
 <h2>🎵 What I'm learning at the moment:</h2>
