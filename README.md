@@ -49,7 +49,7 @@
 
 <h2>🎵 What I'm learning at the moment:</h2>
 
-[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9)
+[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)]([https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ?si=srjeQ-uiQiqiErEA35LmrA))
 
 
 
