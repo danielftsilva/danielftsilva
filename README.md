@@ -105,7 +105,11 @@ Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)** and get to
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/danielfeiteirasilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielftsilva" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/danielfeiteirasilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielftsilva" height="20" width="20" /></a>
+<a href="mailto:danielsilvacs@gmail.com" target="blank">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzo3JlXdn79GmCZtnDHLbUKWPrQMTDb4p4MQ&s" alt="Email" height="20" width="20" />
+</a>
+
 </p>
