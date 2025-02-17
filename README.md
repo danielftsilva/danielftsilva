@@ -1,8 +1,8 @@
 <h1>Hi, I'm Daniel!<br/><a href="https://github.com/danielftsilva">Hardware Design Engineer</a>, <a href="https://www.linkedin.com/in/danielfeiteirasilva/">E-Mobility Professional</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar Player</a>, <a href="https://daminharua.pt/">Youth Worker</a></h1>
 
 <!-- my portfolio -->
-Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)** and get to know my experience through **[my resume](https://drive.google.com/file/d/1HfX6l9l6t2lXlLdyYL8o1ZJP3AycqxNJ/view?usp=sharing)**!
-
+<!-- Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)** -->
+Get to know my experience through **[my resume](https://drive.google.com/file/d/1HfX6l9l6t2lXlLdyYL8o1ZJP3AycqxNJ/view?usp=sharing)**!
 
 <h2>⚡ PCB Design Projects:</h2>
 
