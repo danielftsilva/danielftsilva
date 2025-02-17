@@ -1,6 +1,7 @@
 <h1>Hi, I'm Daniel!<br/><a href="https://github.com/danielftsilva">Hardware Design Engineer</a>, <a href="https://www.linkedin.com/in/danielfeiteirasilva/">E-Mobility Professional</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar Player</a></h1>
 
 <!-- my portfolio -->
+Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)**!
 
 
 <h2>⚡ PCB Design Projects:</h2>
@@ -53,7 +54,6 @@
 
 
 
--  projects are available at **[my portfolio](https://Eslam-Abdo.github.io/)**
 
 - 💬 Ask me about **Hardware Design**
 
@@ -80,19 +80,23 @@
 <!-- Arduino -->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <!-- Raspberry Pi -->
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberrypi" width="40" height="40"/> </a>
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <!-- Linux -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <!-- Jira -->
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a>
 <!-- Notion -->
+<a href="https://www.notion.com/pt?g-exp=g-exp--marketing_localization_banner--forced_redirect&g-exp=g-exp--marketing_visit_aa_test--on" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="notion" width="40" height="40"/> </a>
 <!-- Adobe Lightroom -->
+<a href="https://lightroom.adobe.com/home" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/768px-Adobe_Photoshop_Lightroom_CC_logo.svg.png?20200616120137" alt="lightroom" width="40" height="40"/> </a>
 <!-- Photoshop -->
+<a href="https://www.adobe.com/pt/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/768px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" alt="photoshop" width="40" height="40"/> </a>
 <!-- Adobe Illustrator -->
-<!-- Adobe Premiere Pro -->
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<!-- Adobe Premiere Pro -->
+<a href="https://www.adobe.com/pt/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/800px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere" width="40" height="40"/> </a>
 
 </p>
 
@@ -102,18 +106,6 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-
+<!-- Matlab -->
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
-
-
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eslam-abdo&show_icons=true&locale=en&layout=compact" alt="eslam-abdo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eslam-abdo&show_icons=true&locale=en" alt="eslam-abdo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eslam-abdo&" alt="eslam-abdo" /></p>
