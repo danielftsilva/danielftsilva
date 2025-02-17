@@ -1,7 +1,7 @@
-<h1>Hi, I'm Daniel!<br/><a href="https://github.com/danielftsilva">Hardware Design Engineer</a>, <a href="https://www.linkedin.com/in/danielfeiteirasilva/">E-Mobility Professional</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar Player</a></h1>
+<h1>Hi, I'm Daniel!<br/><a href="https://github.com/danielftsilva">Hardware Design Engineer</a>, <a href="https://www.linkedin.com/in/danielfeiteirasilva/">E-Mobility Professional</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar Player</a>, <a href="https://daminharua.pt/">Youth Worker</a></h1>
 
 <!-- my portfolio -->
-Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)**!
+Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)** and get to know my experience through **[my resume](https://drive.google.com/file/d/1HfX6l9l6t2lXlLdyYL8o1ZJP3AycqxNJ/view?usp=sharing)**!
 
 
 <h2>⚡ PCB Design Projects:</h2>
@@ -35,7 +35,7 @@ Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)**!
   - [Stock-Market-Py-Analysis](https://github.com/danielftsilva/Stock-Market-Py-Analysis)
 
 
-<h2>⚡ Embedded Systems Projects:</h2>
+<h2>🤖 Embedded Systems Projects:</h2>
 
 - <b>Bluetooth-Enabled Analog Alarm Clock with Arduino HC-05 Integration</b>
   - [HC-05-Analog-Clock](https://github.com/danielftsilva/HC-05-Analog-Clock)
@@ -52,16 +52,10 @@ Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)**!
 
 [![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ?si=srjeQ-uiQiqiErEA35LmrA)
 
-
-
-
-- 💬 Ask me about **Hardware Design**
-
 - 📫 How to reach me: **danielsilvacs@gmail.com**
 
-- 📄 Know about my experience **[see my resume](https://drive.google.com/file/d/1HfX6l9l6t2lXlLdyYL8o1ZJP3AycqxNJ/view?usp=sharing)**
 
-<h3 align="left">Software and Tools:</h3>
+<h2>My Toolbox:</h2>
 <p align="left">
 <!-- Altium Designer -->  
 <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" alt="altium" width="40" height="40"/> </a>
@@ -93,7 +87,7 @@ Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)**!
 <a href="https://www.adobe.com/pt/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/800px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="premiere" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages:</h3>
+<h2>My Languages:</h2>
 <p align="left">
 <!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
