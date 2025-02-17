@@ -48,13 +48,6 @@ Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)** and get to
   - [RPi-NAS-VPN](https://github.com/danielftsilva/RPi-NAS-VPN)
 
 
-<h2>🎵 What I'm learning at the moment:</h2>
-
-[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ?si=srjeQ-uiQiqiErEA35LmrA)
-
-- 📫 How to reach me: **danielsilvacs@gmail.com**
-
-
 <h2>My Toolbox:</h2>
 <p align="left">
 <!-- Altium Designer -->  
@@ -105,11 +98,16 @@ Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)** and get to
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
 
+<h2>🎵 What I'm learning at the moment:</h2>
+
+[![Spotify](https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ?si=srjeQ-uiQiqiErEA35LmrA)
+
 <h2>Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/danielfeiteirasilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danielftsilva" height="20" width="20" /></a>
-<a href="mailto:danielsilvacs@gmail.com" target="blank">
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzo3JlXdn79GmCZtnDHLbUKWPrQMTDb4p4MQ&s" alt="Email" height="20" width="20" />
-</a>
+
+<a href="https://www.linkedin.com/in/danielfeiteirasilva/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/linkedin-original-icon-256x256-bckcotyp.png" alt="linkedin_daniel" width="15" height="15"/> </a>
+LinkedIn: **[https://www.linkedin.com/in/danielfeiteirasilva/](https://www.linkedin.com/in/danielfeiteirasilva/)**
+
+📧 E-mail: **[danielsilvacs@gmail.com](mailto:danielsilvacs@gmail.com)**
 
 </p>
