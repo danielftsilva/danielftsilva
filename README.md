@@ -15,8 +15,8 @@ Get to know my experience through **[my resume](https://drive.google.com/file/d/
 
 <h3>Currently Working On:</h3>
 
-- <b>Hardware Design for E-Mobility (my current work, at [Siemens](https://www.siemens.com/global/en/products/energy/emobility.html))</b>
-  - To learn more about my work at Siemens, feel free to contact me at **danielsilvacs@gmail.com**
+- <b>Hardware Design (my current work, at [EID](https://www.eid.pt/))</b>
+  - To learn more about my work at EID, feel free to contact me at **danielsilvacs@gmail.com**
 - <b>"Japanese" Fuzz Face Guitar Pedal</b>
   - [JP-Fuzz-Face](https://github.com/danielftsilva/JP-Fuzz-Face)
 - <b>MXR - M-144 Loop Selector Guitar Pedal Replica</b>
