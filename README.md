@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel!<br/><a href="https://github.com/danielftsilva">Hardware Design Engineer</a>, <a href="https://www.linkedin.com/in/danielfeiteirasilva/">E-Mobility Professional</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar Player</a>, <a href="https://daminharua.pt/">Youth Worker</a></h1>
+<h1>Hi, I'm Daniel!<br/><a href="https://www.linkedin.com/in/danielfeiteirasilva/">Hardware Design Engineer</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar Player</a>, <a href="https://daminharua.pt/">Youth Worker</a></h1>
 
 <!-- my portfolio -->
 <!-- Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)** -->
