@@ -1,10 +1,9 @@
-<h1>Hi, I'm Daniel!<br/><a href="https://www.linkedin.com/in/danielfeiteirasilva/">Hardware Design Engineer</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar Player</a>, <a href="https://daminharua.pt/">Youth Worker</a></h1>
+<h1>Hello, I'm Daniel,<br/><a href="https://www.linkedin.com/in/danielfeiteirasilva/">Hardware Design Engineer</a>, <a href="https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9?si=abAIxhwuTWiE5qAVwU-D7w">Guitar Player</a>, <a href="https://daminharua.pt/">Youth Worker</a></h1>
 
 <!-- my portfolio -->
-<!-- Take a look at **[my developerFolio](https://Eslam-Abdo.github.io/)** -->
-Get to know my experience through **[my resume](https://drive.google.com/file/d/1MHCeoKyA92jdbroBhyvaDAcD4FCaMBN4/view?usp=sharing)**!
+Get to know my experience through **[my resume](https://drive.google.com/file/d/1MHCeoKyA92jdbroBhyvaDAcD4FCaMBN4/view?usp=sharing)**.
 
-<h2>⚡ PCB Design Projects:</h2>
+<h2>Professional Experience</h2>
 
 - <b>Low-Power RTK Positioning Base Station (for my Master's Thesis, in collaboration with Beyond Vision)</b>
   - [RTK Base Station](https://github.com/danielftsilva/RTK-Base-Station)
@@ -21,10 +20,6 @@ Get to know my experience through **[my resume](https://drive.google.com/file/d/
   - [JP-Fuzz-Face](https://github.com/danielftsilva/JP-Fuzz-Face)
 - <b>MXR - M-144 Loop Selector Guitar Pedal Replica</b>
   - [M-144-Replica](https://github.com/danielftsilva/M-144-Replica)
-
-<!-- acrescentar mais projetos de pedais, vindos do site https://generalguitargadgets.com/effects-projects/-->
-<!-- fazer o developerfolio.
-    deopis disto ver como meter todos os repositorios dentro de um so repositório grande (e.g., PCB-Portfolio)-->
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
