@@ -340,3 +340,27 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 </p>
 
 <hr/>
+
+<h2>📫 Contact</h2>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/danielfeiteirasilva/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/danielfeiteirasilva/">linkedin.com/in/danielfeiteirasilva</a>
+
+
+
+📧
+&nbsp;
+<a href="mailto:danielsilvacs@gmail.com">danielsilvacs@gmail.com</a>
+
+
+
+📄
+&nbsp;
+<a href="https://drive.google.com/file/d/1MHCeoKyA92jdbroBhyvaDAcD4FCaMBN4/view?usp=sharing">View my Resume</a>
+
+</p>
