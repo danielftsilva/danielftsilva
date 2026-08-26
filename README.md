@@ -243,7 +243,7 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 <h3>Hardware & PCB Design</h3>
 <p align="left">
 <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer">
-  <img src="https://src.koda.cnrs.fr/laplace-service-commun-electronique/altium" alt="Altium Designer" width="40" height="40"/>
+  <img src="https://src.koda.cnrs.fr/uploads/-/system/group/avatar/1298/logo-altium-designer.png?width=96" alt="Altium Designer" width="40" height="40"/>
 </a>
 &nbsp;
 <a href="https://www.kicad.org/" target="_blank" rel="noreferrer">
@@ -256,14 +256,18 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 </p>
 
 <p>
-<b>PCB Design</b> · <b>Schematic Capture</b> · <b>High-Speed Design</b> · <b>Signal Integrity</b> · <b>Hardware Debugging</b> · <b>Prototyping</b>
+<b>Schematic Capture</b> · <b>PCB Layout</b> · <b>High-Speed Design</b> · <b>Signal Integrity</b> · <b>Power Integrity</b> · <b>Thermal Management</b> · <b>Hardware Debugging</b> · <b>Prototyping</b>
 </p>
 
 
 <h3>Embedded Systems</h3>
 <p align="left">
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stm32/stm32-original.svg" alt="STM32" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiXyXAsINTiuBfHToEv-CRi6FrzB9IH80oLUdiJo3fFgACrPaesdZfJYE&s=10" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
+<img src="https://files.seeedstudio.com/wiki/FreeRTOS/FreeRTOS-logo.png" alt="FreeRTOS" width="40" height="40"/>
 </a>
 &nbsp;
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -273,14 +277,10 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/>
 </a>
-&nbsp;
-<a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.freertos.org/assets/images/logos/FreeRTOS-logo.png" alt="FreeRTOS" width="40" height="40"/>
-</a>
 </p>
 
 <p>
-<b>Embedded C</b> · <b>Microcontrollers</b> · <b>Firmware</b> · <b>Bare-Metal Programming</b> · <b>FreeRTOS</b> · <b>I²C</b> · <b>SPI</b> · <b>GPIO</b>
+<b>STM32</b> · <b>ESP32</b> · <b>Arduino</b> · <b>Raspberry Pi</b> · <b>Bare-Metal Programming</b> · <b>RTOS</b> · <b>Peripheral Drivers</b> · <b>I²C</b> · <b>SPI</b> · <b>UART</b> · <b>GPIO</b>
 </p>
 
 
@@ -288,6 +288,10 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C++" width="40" height="40"/>
 </a>
 &nbsp;
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
@@ -308,7 +312,7 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 </p>
 
 <p>
-<b>Python</b> · <b>C</b> · <b>C++</b> · <b>C#</b> · <b>Test Automation</b> · <b>Engineering Automation</b> · <b>Git</b> · <b>Linux</b>
+<b>Python</b> · <b>C</b> · <b>C++</b> · <b>C#</b> · <b>TeX</b> · <b>HTML</b> · <b>CSS</b> · <b>Cypress</b> · <b>Electron</b> · <b>Svelte</b> · <b>Git</b> · <b>Linux</b>
 </p>
 
 
@@ -323,7 +327,11 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 </a>
 &nbsp;
 <a href="https://www.notion.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" alt="Notion" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
+</a>
+&nbsp;
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+<img src="https://pbs.twimg.com/profile_images/852661770036535296/oYcD0Q6W_400x400.jpg" alt="LaTeX" width="40" height="40"/>
 </a>
 </p>
 
