@@ -163,8 +163,8 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 <h3>Professional Development</h3>
 
 <ul>
-  <li><b>Embedded Systems Bare-Metal Programming Ground Up™</b> — STM32</li>
-  <li><b>FreeRTOS From Ground Up™ on ARM Processors</b> — Revised</li>
+  <li><b>Embedded Systems Bare-Metal Programming Ground Up™</b> - STM32</li>
+  <li><b>FreeRTOS From Ground Up™ on ARM Processors</b> - Revised</li>
 </ul>
 
 <hr/>
