@@ -12,6 +12,8 @@
 
 <hr/>
 
+<!-------------------------------- Professional Profile -------------------------------->
+
 <h2>Professional Profile</h2>
 
 <p>
@@ -29,50 +31,22 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 </p>
 
 <hr/>
-
-<h2>🔧 Selected Hardware & PCB Projects</h2>
-
-<ul>
-  <li>
-    <b>Low-Power RTK Positioning Base Station</b>
-    <br/>
-    Master's thesis project developed in collaboration with Beyond Vision.
-    <br/>
-    <a href="https://github.com/danielftsilva/RTK-Base-Station">View Project →</a>
-  </li>
-
-  <br/>
-
-  <li>
-    <b>TS-808 Guitar Pedal Replica</b>
-    <br/>
-    Analog electronics and PCB design project involving schematic analysis, PCB layout, prototyping, and hardware testing.
-    <br/>
-    <a href="https://github.com/danielftsilva/TS-808-Replica">View Project →</a>
-  </li>
-
-  <br/>
-
-  <li>
-    <b>Texas Square Face Fuzz Guitar Pedal Replica</b>
-    <br/>
-    Analog electronics and PCB design project focused on circuit replication, PCB layout, and prototyping.
-    <br/>
-    <a href="https://github.com/danielftsilva/TX-SQFF-Replica">View Project →</a>
-  </li>
-</ul>
-
-<p>
-<b>→ <a href="https://github.com/danielftsilva?tab=repositories">View all projects</a></b>
-</p>
-
-<hr/>
+<!-------------------------------- Selected Hardware & PCB Projects -------------------------------->
 
 <h2>🔧 Selected Hardware & PCB Projects</h2>
 
 <h3>Featured Projects</h3>
 
 <ul>
+
+  <li>
+    <b>Low-Power RTK Positioning Base Station</b>
+    <br/>
+    Master's thesis project developed in collaboration with Beyond Vision, involving electronic design, PCB development, prototyping, and RTK positioning.
+    <br/>
+    <a href="https://github.com/danielftsilva/RTK-Base-Station">View Project →</a>
+  </li>
+  
   <li>
     <b>Smart Home Environmental Controller</b>
     <br/>
@@ -113,13 +87,6 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 
   <br/>
 
-  <li>
-    <b>Low-Power RTK Positioning Base Station</b>
-    <br/>
-    Master's thesis project developed in collaboration with Beyond Vision, involving electronic design, PCB development, prototyping, and RTK positioning.
-    <br/>
-    <a href="https://github.com/danielftsilva/RTK-Base-Station">View Project →</a>
-  </li>
 </ul>
 
 <p>
@@ -127,6 +94,7 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 </p>
 
 <hr/>
+<!-------------------------------- Embedded Systems -------------------------------->
 
 <h2>🤖 Embedded Systems</h2>
 
@@ -168,6 +136,7 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 </ul>
 
 <hr/>
+<!-------------------------------- Analog Electronics & Audio -------------------------------->
 
 <h2>🎸 Analog Electronics & Audio</h2>
 
@@ -213,6 +182,8 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 
 <hr/>
 
+<!-------------------------------- Software & Automation -------------------------------->
+
 <h2>💻 Software & Automation</h2>
 
 <ul>
@@ -237,6 +208,8 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 </ul>
 
 <hr/>
+
+<!-------------------------------- Technical Skills -------------------------------->
 
 <h2>🛠️ Technical Skills</h2>
 
@@ -340,6 +313,8 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 </p>
 
 <hr/>
+
+<!-------------------------------- Contact -------------------------------->
 
 <h2>📫 Contact</h2>
 
