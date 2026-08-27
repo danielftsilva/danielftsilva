@@ -46,6 +46,8 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
     <br/>
     <a href="https://github.com/danielftsilva/RTK-Base-Station">View Project →</a>
   </li>
+
+  <br/>
   
   <li>
     <b>Smart Home Environmental Controller</b>
