@@ -60,9 +60,9 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
   <br/>
 
   <li>
-    <b>STM32 Industrial Sensor & Control Node</b>
+    <b>STM32 USB-to-2.4 GHz RF Gateway</b>
     <br/>
-    Embedded industrial electronics platform for sensor monitoring and control, featuring STM32, industrial communications, and protected power inputs.
+    Embedded wireless communication platform featuring STM32, nRF24L01P, USB connectivity, and a dedicated 50 Ω RF interface.
     <br/>
     <a href="https://github.com/danielftsilva/STM32-Industrial-Sensor-Controller">View Project →</a>
   </li>
