@@ -27,7 +27,7 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
 <h2>💼 Professional Experience</h2>
 
 <p align="center">
-  <img src="./timeline.svg" alt="Professional experience timeline: Beyond Vision, Siemens, and EID" width="100%"/>
+  <img src="./Time line.svg" alt="Professional experience timeline: Beyond Vision, Siemens, and EID" width="100%"/>
 </p>
 
 <hr/>
