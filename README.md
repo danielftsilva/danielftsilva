@@ -60,7 +60,7 @@ with professional experience in <b>E-Mobility, communication systems, and R&D</b
   <br/>
 
   <li>
-    <b>STM32 USB-to-2.4 GHz RF Gateway</b>
+    <b>STM32-RF-USB-Gateway</b>
     <br/>
     Embedded wireless communication platform featuring STM32, nRF24L01P, USB connectivity, and a dedicated 50 Ω RF interface.
     <br/>
